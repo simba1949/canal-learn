@@ -12,6 +12,7 @@
     <modules>
         <module>canal-quick-start</module>
         <module>canal-to-kafka</module>
+        <module>canal-ha-connect</module>
     </modules>
 
     <properties>
